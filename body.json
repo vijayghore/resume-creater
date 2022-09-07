@@ -1,0 +1,40 @@
+{
+    "name":"Vijay Ghore",
+    "email": "abc@gmail.com",
+    "phone": "123456789",
+    "address": "Amt, MH",
+
+    "skills": {
+        "s1": "Html",
+        "s2": "Css",
+        "s3": "JavaScript",
+        "s4": "ReactJs",
+        "s5": "NodeJs",
+        "s6": "MongoDb"
+    },
+
+    "hobbies": {
+        "h1": "Photography",
+        "h2": "Trekking",
+        "h3": "Cycling"
+    },
+
+    "qualification": {
+        "ssc":{
+            "institute": "Sample 10th School",
+            "percentage": "68.18"
+        },
+        "hsc":{
+            "institute": "Sample 12th College",
+            "percentage": "54.45"
+        },
+        "bca":{
+            "institute": "Graduation College",
+            "percentage": "74.65"
+        },
+        "mca":{
+            "institute": "Post Grad College",
+            "percentage": "65.86"
+        }
+    }
+}
